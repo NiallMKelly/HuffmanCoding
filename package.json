@@ -1,0 +1,25 @@
+{
+  "name": "huffmancompression",
+  "description": "A very basic implmentation of the Huffman algorithm in Typescript",
+  "version": "0.0.1",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsc -watch",
+    "comp": "tsc"
+  },
+  "keywords": [
+    "Huffman",
+    "Huffman Coding",
+    "Huffman algorithm",
+    "Data Compression"
+  ],
+  "author": "Niall Kelly",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "eslint": "^8.21.0"
+  }
+}
